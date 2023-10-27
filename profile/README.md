@@ -1,6 +1,6 @@
 # Quick Polls
 
-Hello there! 👋 Welcome to **Quick Polls** - the fastest way to gauge opinions and gather feedback. Born out of a free-time project, we're leveraging the power of Next.js to bring you an intuitive and efficient polling experience.
+Hello there! 👋 Welcome to **My Quick Poll** - the fastest way to gauge opinions and gather feedback. Born out of a free-time project, we're leveraging the power of Next.js to bring you an intuitive and efficient polling experience.
 
 ---
 
